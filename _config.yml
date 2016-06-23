@@ -1,0 +1,14 @@
+layout_spectrum: 0.5590757236350328
+typography_spectrum: 0.2038746930193156
+color:
+  brandStrength: 0.9782541808672249
+  lightness: 0.7407093674410135
+  saturation: 0.22350093070417643
+  rhythmicContrast: 0.827359119663015
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: Numi
